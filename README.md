@@ -1,6 +1,6 @@
 # freeCodeCamp Responsive Web Design Certification
 
-Tribute Page Project
+- Tribute Page Project
 
 See the project details and requirements on: 
 

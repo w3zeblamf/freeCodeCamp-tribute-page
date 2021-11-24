@@ -111,8 +111,8 @@ a:hover, a:active {
   height: 2.3rem;
   font-size: 1.4rem;
   position: fixed;
-  bottom: 5rem;
-  right: 5rem;
+  bottom: 1rem;
+  right: 2rem;
   border-radius: 50%;
   color: #fff;
   background-color:  rgba(0, 0, 0, 0.4);
